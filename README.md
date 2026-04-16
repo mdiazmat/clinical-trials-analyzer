@@ -24,12 +24,15 @@ ER diagram coming soon. Six tables total: four entity tables (trials, sponsors, 
 To be added at project completion.
 
 ## Repo Structure
+
+```
 clinical-trials-analyzer/
 ├── sql/                  SQL schema and analytical queries
 ├── src/                  Python scripts for extraction and ETL
 ├── data/                 Raw and processed data (gitignored)
 ├── docs/                 ER diagram and dashboard screenshots
 └── notebooks/            Exploratory analysis
+```
 
 ## Setup
 1. Clone the repo
@@ -43,5 +46,5 @@ clinical-trials-analyzer/
 ClinicalTrials.gov API v2: https://clinicaltrials.gov/api/v2/studies
 
 ## Author
-Martha Diaz Matamoros  
+Martha Diaz-Matamoros  
 MS Data Science and Business Analytics, UNC Charlotte
