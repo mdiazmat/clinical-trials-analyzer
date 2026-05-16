@@ -3,7 +3,7 @@
 End-to-end data pipeline and Tableau dashboard analyzing 47,000+ Phase 2 and Phase 3 oncology clinical trials from ClinicalTrials.gov spanning six decades of research (1966-2030), with focused analysis of post-2010 trends.
 
 ## Project Status
-In progress. 2-week build timeline.
+In progress. Month build timeline.
 
 ## Tech Stack
 - Python (requests, pandas, psycopg2)
